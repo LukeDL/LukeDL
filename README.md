@@ -12,7 +12,16 @@
 
 <!-- ICONS IN SVG: TO LONG -->
 
-<div style="display: inline-block"><br>
+<div style="display: block">
+  <img src="https://img.shields.io/badge/LINUX-FEDORA%2034-blue?style=for-the-badge&logo=fedora">
+  <img src="https://img.shields.io/badge/JS-ECMASCRIPT%202021-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/NODE-14.17.5-green?style=for-the-badge&logo=nodedotjs">  
+  <img src="https://img.shields.io/badge/VUE-2.6.x-42b883?style=for-the-badge&logo=vuedotjs">
+  <img src="https://img.shields.io/badge/NUXT-2.15.x-3b8070?style=for-the-badge&logo=nuxtdotjs">
+  <img src="https://img.shields.io/badge/EXPRESS.JS-4.x-yellow?style=for-the-badge&logo=express">
+  <img src="https://img.shields.io/badge/GOOGLE-Cloud%20Run-blue?style=for-the-badge&logo=googlecloud">
+  <img src="https://img.shields.io/badge/DOCKER-20.10.x-blue?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/vs%20code-1.59.x-blue?style=for-the-badge&logo=visualstudiocode">
 </div>
 
 
